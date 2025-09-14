@@ -8,3 +8,6 @@ As part of this course, I have completed the following projects:
 2. **AI\_Calorie\_Tracker** :<br>
    Developed a Calorie Tracker that uses OpenAI to identify food from images and estimate its nutritional information. By analyzing a photo of a meal, it provides instant calorie counts and macronutrient breakdowns, making nutrition tracking effortless with just a snapshot.
 
+3. **AI\_Tutor** :<br>
+   Developed an AI Tutor using OpenAI and Gradio that explains concepts across multiple levels - from "Explain like I am 5" to expert.<br>
+   A user-friendly web interface with a complexity slider and real-time streaming responses makes learning more intuitive and engaging.
