@@ -11,3 +11,5 @@ As part of this course, I have completed the following projects:
 3. **AI\_Tutor** :<br>
    Developed an AI Tutor using OpenAI and Gradio that explains concepts across multiple levels - from "Explain like I am 5" to expert.<br>
    A user-friendly web interface with a complexity slider and real-time streaming responses makes learning more intuitive and engaging.
+4. **Landing\_Page\_Generator** :<br>
+   Built and customized HTML landing pages for a sample startup with the OpenAI GPT-4o model.
